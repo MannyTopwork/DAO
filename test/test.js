@@ -10,6 +10,8 @@ async function mineBlocks(numBlocks) {
   }
 }
 
+//networks
+
 describe("EvoxDao Test", function () {
   let Sablier,
     sablier,
